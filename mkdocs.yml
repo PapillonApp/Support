@@ -1,0 +1,83 @@
+site_name: Support Papillon
+site_url: https://support.getpapillon.xyz
+repo_url: https://github.com/PapillonApp/support
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  language: fr
+  logo: assets/logo.svg
+  favicon: assets/beta.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.footer
+    - content.action.edit
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate 
+    - navigation.sections
+plugins:
+  - search
+  - render_swagger
+  - git-revision-date-localized:
+      locale: fr
+      type: timeago
+      fallback_to_build_date: true
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/PapillonApp/Papillon
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/thepapillonapp/
+    - icon: fontawesome/brands/discord
+      link: https://discord.getpapillon.xyz/
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - footnotes
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - abbr
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+extra_css:
+  - stylesheets/extra.css
