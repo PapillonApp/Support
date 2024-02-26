@@ -1,4 +1,4 @@
-# 
+
 
 <center>
 ![Papillon](assets/beta.png){ width="300px" }
@@ -23,7 +23,7 @@
 
     Naviguez dans l'application de façon fluide et optimisée pour en tirer le meilleur de façoon efficace.
 
-    [:octicons-arrow-right-24: Consulter](design/intro.md)
+    [:octicons-arrow-right-24: Consulter](navigation/index.md)
 
 -   :octicons-file-code-24:{ .lg .middle } __Fonctionnalités disponibles__
 
@@ -31,7 +31,7 @@
 
     Utilisez pleinement votre application de vie scolaire en exploitation au maximum toutes ses fonctionnalités.
 
-    [:octicons-arrow-right-24: Consulter](development/intro.md)
+    [:octicons-arrow-right-24: Consulter](fonctionnalites/index.md)
 
 -   :octicons-gear-24:{ .lg .middle } __Paramètres__
 
@@ -40,7 +40,7 @@
     Personnalisez Papillon selon votre personnalité et vos gouts, pour la rendre toujours plus agréable à utiliser.
 
 
-    [:octicons-arrow-right-24: Consulter](contribute/intro.md)
+    [:octicons-arrow-right-24: Consulter](parametres/index.md)
 
 -    :material-apps:{ .lg .middle } __Rejoindre la bêta__
 
@@ -48,7 +48,7 @@
 
     Une bêta de Papillon est disponible pour les utilisateurs qui souhaitent tester les nouvelles fonctionnalités.
 
-    [:octicons-arrow-right-24: Rejoindre la bêta de Papillon](contribute/beta)
+    [:octicons-arrow-right-24: Rejoindre la bêta de Papillon](https://beta.getpapillon.xyz)
 
 </div>
 

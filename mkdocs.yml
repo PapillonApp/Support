@@ -1,6 +1,11 @@
 site_name: Support Papillon
 site_url: https://support.getpapillon.xyz
 repo_url: https://github.com/PapillonApp/support
+nav:
+  - Accueil: 'index.md'
+  - Navigation: 'navigation/index.md'
+  - Fonctionnalités: 'fonctionnalites/index.md'
+  - Paramètres: 'parametres/index.md'
 theme:
   name: material
   palette:
