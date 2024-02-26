@@ -17,7 +17,7 @@
 
 <div class="grid cards" markdown>
 
--   :octicons-typography-24:{ .lg .middle } __Navigation dans l'app__
+-   :octicons-apps-16:{ .lg .middle } __Navigation dans l'app__
 
     ---
 
@@ -33,7 +33,7 @@
 
     [:octicons-arrow-right-24: Consulter](development/intro.md)
 
--   :octicons-code-of-conduct-24:{ .lg .middle } __Paramètres__
+-   :octicons-gear-24:{ .lg .middle } __Paramètres__
 
     ---
 
