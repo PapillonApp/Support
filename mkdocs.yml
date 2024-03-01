@@ -12,8 +12,8 @@ nav:
     - Notes :
       - Simulation de notes : ''
       - Graphique de la moyenne : ''
-          
   - Paramètres: 'parametres/index.md'
+  - Bugs fréquents: 'bugs/index.md'
 theme:
   name: material
   palette:
