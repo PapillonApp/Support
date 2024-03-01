@@ -1,0 +1,1 @@
+# Graphique de la moyenne

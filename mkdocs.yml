@@ -4,7 +4,14 @@ repo_url: https://github.com/PapillonApp/support
 nav:
   - Accueil: 'index.md'
   - Navigation: 'navigation/index.md'
-  - Fonctionnalités: 'fonctionnalites/index.md'
+  - Fonctionnalités :  
+    - Liste des fonctionnalités : 'fonctionnalites/index.md'
+    - Personnalisation de l'app : 
+      - Personnalisation des couleurs : ''
+      - Personnalisation des icones : ''
+    - Notes :
+      - Simulation de notes : ''
+      - Graphique de la moyenne : ''    
   - Paramètres: 'parametres/index.md'
 theme:
   name: material
