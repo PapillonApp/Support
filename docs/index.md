@@ -42,13 +42,13 @@
 
     [:octicons-arrow-right-24: Consulter](parametres/index.md)
 
--    :material-apps:{ .lg .middle } __Rejoindre la bêta__
+-    :material-bug:{ .lg .middle } __Bugs fréquents__
 
     ---
 
-    Une bêta de Papillon est disponible pour les utilisateurs qui souhaitent tester les nouvelles fonctionnalités.
+    Certains bugs peuvent survenir fréquemment, vous trouverez ici leur cause et comment les résoudre !
 
-    [:octicons-arrow-right-24: Rejoindre la bêta de Papillon](https://beta.getpapillon.xyz)
+    [:octicons-arrow-right-24: Consulter](bugs/index.md)
 
 </div>
 

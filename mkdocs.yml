@@ -11,7 +11,8 @@ nav:
       - Personnalisation des icones : ''
     - Notes :
       - Simulation de notes : ''
-      - Graphique de la moyenne : ''    
+      - Graphique de la moyenne : ''
+          
   - Paramètres: 'parametres/index.md'
 theme:
   name: material
