@@ -1,1 +1,1 @@
-# Personnalisation des Paramètres de Papillon
+# Les paramètres configurables de Papillon
