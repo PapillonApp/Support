@@ -12,7 +12,32 @@ La barre de navigation située en bas de l'écran facilite la navigation dans l'
 - **Notes**
 - **Actualités**
 
+![Barre de navigation](../../assets/navbar.png)
+
 Utilisez ces onglets pour accéder rapidement aux différentes sections de Papillon et optimiser votre expérience utilisateur.
 
 
-## Moyen 2
+## Accueil
+
+![Page d'accueil](../../assets/accueil.png)
+
+L'accueil vous offre une vue récapitulative sur :  
+
+- Votre emploi du temps du jour  
+- Votre cours actuel ou à venir  
+
+Ainsi qu'un accès simplifié à :  
+
+- Votre récapitulatif de vie scolaire  
+- Vos messages  
+- Vos notes/compétences  
+- Le reste de votre emploi du temps  
+
+
+## Cours
+
+L'onglet cours vous permet d'accéder à votre emploi du temps. Vous pouvez consulter vos cours par jour, ainsi que les détails de chaque cours.
+
+![Page des cours](../../assets/cours.png)
+
+![Détails d'un cours](../../assets/details-cours.png)

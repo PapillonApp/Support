@@ -15,7 +15,7 @@
 </div>
 
 <div class="cards">
-  <a href="navigation/index.md" class="card">
+  <a href="navigation" class="card">
     <span class="material-symbols-outlined">
       apps
     </span>
@@ -24,7 +24,7 @@
       Naviguez dans l'application de façon fluide et optimisée pour en tirer le meilleur de façon efficace.
     </p>
   </a>
-  <a href="fonctionnalites/index.md" class="card">
+  <a href="fonctionnalites" class="card">
     <span class="material-symbols-outlined">
       menu
     </span>
@@ -33,7 +33,7 @@
       Utilisez pleinement votre application de vie scolaire en exploitation au maximum toutes ses fonctionnalités.
     </p>
   </a>
-  <a href="parametres/index.md" class="card">
+  <a href="parametres" class="card">
     <span class="material-symbols-outlined">
       settings
     </span>
