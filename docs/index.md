@@ -1,71 +1,196 @@
 
-
-<center>
-![Papillon](assets/beta.png){ width="300px" }
-
-# Support et documentation utilisateur de Papillon
-
-</center>
-
-
-!!! note warning "Documentation destinée aux utilisateurs de l'application"
-    Cette documentation est destinée aux utilisateurs souhaitant comprendre le fonctionnement de Papillon, et l'exploiter à son plein potentiel.
-    Pour les développeurs, veuillez vous référer à la [documentation technique](https://docs.getpapillon.xyz/).
-
-!!! note warning "Documentation en construction"
-    La documentation est en construction, revenez plus tard si quelque chose n'est pas disponible !
-
-<div class="grid cards" markdown>
-
--   :octicons-apps-16:{ .lg .middle } __Navigation dans l'app__
-
-    ---
-
-    Naviguez dans l'application de façon fluide et optimisée pour en tirer le meilleur de façoon efficace.
-
-    [:octicons-arrow-right-24: Consulter](navigation/index.md)
-
--   :octicons-file-code-24:{ .lg .middle } __Fonctionnalités disponibles__
-
-    ---
-
-    Utilisez pleinement votre application de vie scolaire en exploitation au maximum toutes ses fonctionnalités.
-
-    [:octicons-arrow-right-24: Consulter](fonctionnalites/index.md)
-
--   :octicons-gear-24:{ .lg .middle } __Paramètres__
-
-    ---
-
-    Personnalisez Papillon selon votre personnalité et vos gouts, pour la rendre toujours plus agréable à utiliser.
-
-
-    [:octicons-arrow-right-24: Consulter](parametres/index.md)
-
--    :material-bug:{ .lg .middle } __Bugs fréquents__
-
-    ---
-
-    Certains bugs peuvent survenir fréquemment, vous trouverez ici leur cause et comment les résoudre !
-
-    [:octicons-arrow-right-24: Consulter](bugs/index.md)
-
+<div class="head_container">
+  <img
+    src="assets/beta.png"
+    class="logo_main"
+  />
+  <div class="head_title">
+    <p class="head_title_1">
+      Support et documentation utilisateur de Papillon
+    </p>
+    <p class="head_title_2">
+      et des services associés.
+    </p>
+  </div>
 </div>
 
-## Nos réseaux sociaux
-
-<div class="grid cards" markdown>
-
-- :fontawesome-brands-discord: [discord.gg/__papillonapp__](https://discord.gg/papillonapp){target=_blank}
-- :fontawesome-brands-github-alt: [github.com/__PapillonApp__](https://github.com/PapillonApp){target=_blank}
-- :fontawesome-brands-x-twitter: [twitter.com/__thepapillonapp__](https://twitter.com/thepapillonapp){target=_blank}
-- :fontawesome-brands-instagram: [instagram.com/__thepapillonapp__](https://instagram.com/thepapillonapp){target=_blank}
-
+<div class="cards">
+  <a href="navigation/index.md" class="card">
+    <span class="material-symbols-outlined">
+      apps
+    </span>
+    <h3>Navigation dans l'app</h3>
+    <p>
+      Naviguez dans l'application de façon fluide et optimisée pour en tirer le meilleur de façon efficace.
+    </p>
+  </a>
+  <a href="fonctionnalites/index.md" class="card">
+    <span class="material-symbols-outlined">
+      menu
+    </span>
+    <h3>Fonctionnalités disponibles</h3>
+    <p>
+      Utilisez pleinement votre application de vie scolaire en exploitation au maximum toutes ses fonctionnalités.
+    </p>
+  </a>
+  <a href="parametres/index.md" class="card">
+    <span class="material-symbols-outlined">
+      settings
+    </span>
+    <h3>Paramètres</h3>
+    <p>
+      Personnalisez Papillon selon votre personnalité et vos gouts, pour la rendre toujours plus agréable à utiliser.
+    </p>
+  </a>
 </div>
 
-## Mentions légales
-- [:material-gavel: Politique de confidentialité](documents/privacy-policy)
-- [:material-gavel: Conditions générales d'utilisation](documents/terms-of-service)
+### Mentions légales
 
-!!! note ""
-    Papillon n'est affilié à aucune entreprise ou organisation. Papillon est un projet open-source et communautaire.
+<div class="cards">
+  <a href="documents/privacy-policy" class="card card_secondary">
+    <span class="material-symbols-outlined">
+      gavel
+    </span>
+    <h3>Politique de confidentialité</h3>
+    <p>
+      Consultez notre politique de confidentialité pour en savoir plus sur la collecte et l'utilisation de vos données.
+    </p>
+  </a>
+  <a href="documents/terms-of-service" class="card card_secondary">
+    <span class="material-symbols-outlined">
+      assignment
+    </span>
+    <h3>Conditions d'utilisation</h3>
+    <p>
+      Consultez nos conditions d'utilisation pour en savoir plus sur les règles d'utilisation de nos services.
+    </p>
+  </a>
+</div>
+### Bêta de Papillon
+Une bêta de Papillon est disponible pour les utilisateurs qui souhaitent tester les nouvelles fonctionnalités.
+
+[:octicons-arrow-right-24: Rejoindre la bêta de Papillon](https://beta.getpapillon.xyz)
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined');
+
+  .material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+  }
+
+  #_1 {
+    display: none;
+  }
+  .head_container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .logo_main {
+    width: 60px;
+    height: 60px;
+  }
+  .head_title {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .head_title_1 {
+    margin: 0;
+    font-size: 1.3em;
+    line-height: 1.2;
+    font-weight: bold;
+  }
+
+  .head_title_2 {
+    margin: 0;
+    font-size: 1em;
+    line-height: 1.2;
+    opacity: 0.7;
+  }
+
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+  }
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    padding: 0px;
+    border-radius: 8px;
+
+    background-color: var(--md-admonition-bg-color);
+    border: 1px solid var(--md-default-fg-color--lighter);
+
+    text-decoration: none;
+    color: var(--md-default-fg-color);
+
+    overflow: hidden;
+
+    box-shadow: 0px 1px 3px #00000055;
+  }
+
+  .card:hover {
+    box-shadow: 0px 2px 6px #00000055;
+    transform: translateY(-2px);
+  }
+
+  .card * {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: var(--md-default-fg-color);
+  }
+
+  .card .material-symbols-outlined {
+    padding: 10px;
+    background-color: var(--md-primary-fg-color);
+
+    height: 80px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #fff;
+    font-size: 40px;
+  }
+
+  .card_secondary .material-symbols-outlined {
+    background-color: var(--md-default-fg-color--lightest);
+    color: var(--md-admonition-fg-color);
+  }
+
+  .card h3 {
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: left;
+    margin: 12px 12px;
+    padding: 0;
+    margin-bottom: 8px;
+  }
+
+  .card p {
+    font-size: 0.85em;
+    opacity: 0.8;
+    text-align: left;
+    margin: 0 12px;
+    padding: 0;
+    margin-bottom: 12px;
+  }
+</style>
