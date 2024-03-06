@@ -13,3 +13,6 @@
 
 ## Devoirs
 [Ajout d'un devoir](devoirs/ajout.md)  
+
+## Accessibilité
+[Accessibilité vis à vis de nombreux handicaps](accessibilité/index.md)
