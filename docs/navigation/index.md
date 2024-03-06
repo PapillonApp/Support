@@ -19,7 +19,7 @@ Utilisez ces onglets pour accéder rapidement aux différentes sections de Papil
 
 ## Accueil
 
-![Page d'accueil](../../assets/accueil.png)
+![Page d'accueil](../assets/views/Accueil.png)
 
 L'accueil vous offre une vue récapitulative sur :  
 
@@ -38,6 +38,7 @@ Ainsi qu'un accès simplifié à :
 
 L'onglet cours vous permet d'accéder à votre emploi du temps. Vous pouvez consulter vos cours par jour, ainsi que les détails de chaque cours.
 
-![Page des cours](../../assets/cours.png)
-
-![Détails d'un cours](../../assets/details-cours.png)
+<div align="center">
+    <img src="../assets/views/Cours.png" alt="Page des cours" />
+  <img src="../assets/views/CoursDetail.png" alt="Détails d'un cours" />
+</div>
