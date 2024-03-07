@@ -69,7 +69,7 @@
 ### Bêta de Papillon
 Une bêta de Papillon est disponible pour les utilisateurs qui souhaitent tester les nouvelles fonctionnalités.
 
-[:octicons-arrow-right-24: Rejoindre la bêta de Papillon](https://docs.getpapillon.xyz/contribute/beta/)
+[:octicons-arrow-right-24: Rejoindre la bêta de Papillon](beta/beta.md)
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined');

@@ -13,6 +13,7 @@ nav:
       - Simulation de notes : ''
       - Graphique de la moyenne : ''
   - Paramètres: 'parametres/index.md'
+  - Bêta : 'beta/beta.md'
 theme:
   name: material
   palette:
