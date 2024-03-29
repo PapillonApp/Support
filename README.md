@@ -1,5 +1,6 @@
 # Support et documentation utilisateur de Papillon
-Vous pouvez contribuer à la documentation utilisateur de Papillon via ce dépôt GitHub.
+Vous pouvez contribuer à la documentation utilisateur de Papillon via ce dépôt GitHub.  
+Cette documentation est encore en cours de rédaction, et pas encore déployée.
 
 ## Ajouter des pages
 Le contenu du site est écrit en [**Markdown**](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) et se trouve dans `/docs`.
