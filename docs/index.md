@@ -62,7 +62,7 @@
     </span>
     <h3>Conditions d'utilisation</h3>
     <p>
-      Consultez nos conditions d'utilisation pour en savoir plus sur les règles d'utilisation de nos services.
+      Consultez nos conditions générales d'utilisation pour en savoir plus sur les règles d'utilisation de nos services.
     </p>
   </a>
 </div>
