@@ -9,7 +9,7 @@ Le site web est ensuite généré par [MkDocs](https://www.mkdocs.org/) avec le 
 
 Vous pouvez vous aider de la [référence de Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/).
 
-Forkez ce dépôt, faites vos propositions et envoyez une **pull request**. On l'acceptera au plus vite.
+Forkez ce dépôt, faites vos propositions et envoyez une **pull request**. On l'acceptera au plus vite. Merci de séparer toutes vos modifications dans des commits différents.
 
 ## Compiler localement
 Pour tester vos changements sur votre ordinateur avant l'envoi:
